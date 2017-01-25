@@ -10,8 +10,6 @@
 				"VALIDATE_FIELDS" => array(
 						"name" => "name",
 				),
-				"ELEMENT_SORT_FIELD" => "sort",
-				"ELEMENT_SORT_ORDER" => "asc",
 				"SEND_EMAIL_USER" => "Y",
 				"EMAIL_TO" => "vv@ff.vob",
 				"TEXT_MESSAGE" => "test",
@@ -30,8 +28,6 @@
 						),
 				),
 				"USE_CAPTCHA" => "N",
-				"CACHE_TYPE" => "A",
-				"CACHE_TIME" => "3600",
 		)
 );
 ?>
